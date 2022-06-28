@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicationTypeName="HelloWorldAppType" ApplicationTypeVersion="1.0.0" xmlns="http://schemas.microsoft.com/2011/01/fabric" ManifestId="c441f541-fc1a-4352-981b-46bf46bca6b0">
+  <Parameters />
+  <!-- Import the ServiceManifest from the ServicePackage. The ServiceManifestName and ServiceManifestVersion 
+       should match the Name and Version attributes of the ServiceManifest element defined in the 
+       ServiceManifest.xml file. -->
+  <ServiceManifestImport>
+    <ServiceManifestRef ServiceManifestName="HelloServicePkg" ServiceManifestVersion="1.0.0" />
+    <ConfigOverrides />
+  </ServiceManifestImport>
+</ApplicationManifest>

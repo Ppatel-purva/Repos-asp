@@ -1,0 +1,27 @@
+C:\Users\Lenovo\source\repos\angular api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\source\repos\angular api\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\source\repos\angular api\bin\Debug\net6.0\angular api.exe
+C:\Users\Lenovo\source\repos\angular api\bin\Debug\net6.0\angular api.deps.json
+C:\Users\Lenovo\source\repos\angular api\bin\Debug\net6.0\angular api.runtimeconfig.json
+C:\Users\Lenovo\source\repos\angular api\bin\Debug\net6.0\angular api.dll
+C:\Users\Lenovo\source\repos\angular api\bin\Debug\net6.0\angular api.pdb
+C:\Users\Lenovo\source\repos\angular api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lenovo\source\repos\angular api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\source\repos\angular api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\source\repos\angular api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo\source\repos\angular api\obj\Debug\net6.0\angular api.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\angular api\obj\Debug\net6.0\angular api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\angular api\obj\Debug\net6.0\angular api.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\angular api\obj\Debug\net6.0\angular api.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\angular api\obj\Debug\net6.0\angular api.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\angular api\obj\Debug\net6.0\angular api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\angular api\obj\Debug\net6.0\angular api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\angular api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\source\repos\angular api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\source\repos\angular api\obj\Debug\net6.0\scopedcss\bundle\angular api.styles.css
+C:\Users\Lenovo\source\repos\angular api\obj\Debug\net6.0\angular api.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\angular api\obj\Debug\net6.0\angular api.dll
+C:\Users\Lenovo\source\repos\angular api\obj\Debug\net6.0\refint\angular api.dll
+C:\Users\Lenovo\source\repos\angular api\obj\Debug\net6.0\angular api.pdb
+C:\Users\Lenovo\source\repos\angular api\obj\Debug\net6.0\angular api.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\angular api\obj\Debug\net6.0\ref\angular api.dll

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "xqH+r60k/Zcr0NUzZNS5TcYIf+tQTrhben0LiuadZj+KDxosHzLpkfpumEZ/Z3wuRJKwRV0EWGXpsI9z+evr+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\HelloService\\HelloService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.servicefabric\\8.2.1571\\microsoft.servicefabric.8.2.1571.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.servicefabric.data\\5.2.1571\\microsoft.servicefabric.data.5.2.1571.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\5.2.1571\\microsoft.servicefabric.data.extensions.5.2.1571.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\5.2.1571\\microsoft.servicefabric.data.interfaces.5.2.1571.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\5.2.1571\\microsoft.servicefabric.diagnostics.internal.5.2.1571.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.servicefabric.services\\5.2.1571\\microsoft.servicefabric.services.5.2.1571.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.0\\microsoft.netcore.app.runtime.win-x64.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.0\\microsoft.aspnetcore.app.runtime.win-x64.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

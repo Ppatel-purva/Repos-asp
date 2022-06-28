@@ -1,0 +1,1 @@
+C:\Users\Lenovo\source\repos\ServiceFabricTrial\obj\x64\Debug\ServiceFabricTrial.sfproj.CoreCompileInputs.cache

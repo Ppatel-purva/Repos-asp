@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDIReadFile", "EDIReadFile.csproj", "{C400776C-165F-44EF-BC77-C7E102271DDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C400776C-165F-44EF-BC77-C7E102271DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C400776C-165F-44EF-BC77-C7E102271DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C400776C-165F-44EF-BC77-C7E102271DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C400776C-165F-44EF-BC77-C7E102271DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C4A3FD5-33DD-47BB-A4B5-8DB65DB957A6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\DesignPatternCustomerAbstract\DesignPatternCustomerAbstract\obj\Debug\netcoreapp3.1\DesignPatternCustomerAbstract.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\DesignPatternCustomerAbstract\DesignPatternCustomerAbstract\obj\Debug\netcoreapp3.1\DesignPatternCustomerAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\DesignPatternCustomerAbstract\DesignPatternCustomerAbstract\obj\Debug\netcoreapp3.1\DesignPatternCustomerAbstract.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DesignPatternCustomerAbstract\DesignPatternCustomerAbstract\obj\Debug\netcoreapp3.1\DesignPatternCustomerAbstract.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DesignPatternCustomerAbstract\DesignPatternCustomerAbstract\obj\Debug\netcoreapp3.1\DesignPatternCustomerAbstract.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DesignPatternCustomerAbstract\DesignPatternCustomerAbstract\bin\Debug\netcoreapp3.1\DesignPatternCustomerAbstract.exe
+C:\Users\Lenovo\source\repos\DesignPatternCustomerAbstract\DesignPatternCustomerAbstract\bin\Debug\netcoreapp3.1\DesignPatternCustomerAbstract.deps.json
+C:\Users\Lenovo\source\repos\DesignPatternCustomerAbstract\DesignPatternCustomerAbstract\bin\Debug\netcoreapp3.1\DesignPatternCustomerAbstract.runtimeconfig.json
+C:\Users\Lenovo\source\repos\DesignPatternCustomerAbstract\DesignPatternCustomerAbstract\bin\Debug\netcoreapp3.1\DesignPatternCustomerAbstract.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\DesignPatternCustomerAbstract\DesignPatternCustomerAbstract\bin\Debug\netcoreapp3.1\DesignPatternCustomerAbstract.dll
+C:\Users\Lenovo\source\repos\DesignPatternCustomerAbstract\DesignPatternCustomerAbstract\bin\Debug\netcoreapp3.1\DesignPatternCustomerAbstract.pdb
+C:\Users\Lenovo\source\repos\DesignPatternCustomerAbstract\DesignPatternCustomerAbstract\obj\Debug\netcoreapp3.1\DesignPatternCustomerAbstract.dll
+C:\Users\Lenovo\source\repos\DesignPatternCustomerAbstract\DesignPatternCustomerAbstract\obj\Debug\netcoreapp3.1\DesignPatternCustomerAbstract.pdb
+C:\Users\Lenovo\source\repos\DesignPatternCustomerAbstract\DesignPatternCustomerAbstract\obj\Debug\netcoreapp3.1\DesignPatternCustomerAbstract.genruntimeconfig.cache

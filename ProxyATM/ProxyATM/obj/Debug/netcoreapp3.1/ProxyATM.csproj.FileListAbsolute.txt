@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\ProxyATM\ProxyATM\obj\Debug\netcoreapp3.1\ProxyATM.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ProxyATM\ProxyATM\obj\Debug\netcoreapp3.1\ProxyATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ProxyATM\ProxyATM\obj\Debug\netcoreapp3.1\ProxyATM.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ProxyATM\ProxyATM\obj\Debug\netcoreapp3.1\ProxyATM.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ProxyATM\ProxyATM\obj\Debug\netcoreapp3.1\ProxyATM.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ProxyATM\ProxyATM\bin\Debug\netcoreapp3.1\ProxyATM.exe
+C:\Users\Lenovo\source\repos\ProxyATM\ProxyATM\bin\Debug\netcoreapp3.1\ProxyATM.deps.json
+C:\Users\Lenovo\source\repos\ProxyATM\ProxyATM\bin\Debug\netcoreapp3.1\ProxyATM.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ProxyATM\ProxyATM\bin\Debug\netcoreapp3.1\ProxyATM.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\ProxyATM\ProxyATM\bin\Debug\netcoreapp3.1\ProxyATM.dll
+C:\Users\Lenovo\source\repos\ProxyATM\ProxyATM\bin\Debug\netcoreapp3.1\ProxyATM.pdb
+C:\Users\Lenovo\source\repos\ProxyATM\ProxyATM\obj\Debug\netcoreapp3.1\ProxyATM.dll
+C:\Users\Lenovo\source\repos\ProxyATM\ProxyATM\obj\Debug\netcoreapp3.1\ProxyATM.pdb
+C:\Users\Lenovo\source\repos\ProxyATM\ProxyATM\obj\Debug\netcoreapp3.1\ProxyATM.genruntimeconfig.cache

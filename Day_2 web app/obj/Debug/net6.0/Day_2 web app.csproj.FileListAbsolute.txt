@@ -1,0 +1,26 @@
+C:\Users\Lenovo\source\repos\Day_2 web app\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\source\repos\Day_2 web app\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\source\repos\Day_2 web app\bin\Debug\net6.0\Day_2 web app.staticwebassets.runtime.json
+C:\Users\Lenovo\source\repos\Day_2 web app\bin\Debug\net6.0\Day_2 web app.exe
+C:\Users\Lenovo\source\repos\Day_2 web app\bin\Debug\net6.0\Day_2 web app.deps.json
+C:\Users\Lenovo\source\repos\Day_2 web app\bin\Debug\net6.0\Day_2 web app.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Day_2 web app\bin\Debug\net6.0\Day_2 web app.dll
+C:\Users\Lenovo\source\repos\Day_2 web app\bin\Debug\net6.0\Day_2 web app.pdb
+C:\Users\Lenovo\source\repos\Day_2 web app\obj\Debug\net6.0\Day_2 web app.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Day_2 web app\obj\Debug\net6.0\Day_2 web app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Day_2 web app\obj\Debug\net6.0\Day_2 web app.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Day_2 web app\obj\Debug\net6.0\Day_2 web app.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Day_2 web app\obj\Debug\net6.0\Day_2 web app.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Day_2 web app\obj\Debug\net6.0\Day_2 web app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\Day_2 web app\obj\Debug\net6.0\Day_2 web app.RazorAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\Day_2 web app\obj\Debug\net6.0\Day_2 web app.RazorAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Day_2 web app\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\source\repos\Day_2 web app\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\source\repos\Day_2 web app\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lenovo\source\repos\Day_2 web app\obj\Debug\net6.0\scopedcss\bundle\Day_2 web app.styles.css
+C:\Users\Lenovo\source\repos\Day_2 web app\obj\Debug\net6.0\scopedcss\projectbundle\Day_2 web app.bundle.scp.css
+C:\Users\Lenovo\source\repos\Day_2 web app\obj\Debug\net6.0\Day_2 web app.dll
+C:\Users\Lenovo\source\repos\Day_2 web app\obj\Debug\net6.0\refint\Day_2 web app.dll
+C:\Users\Lenovo\source\repos\Day_2 web app\obj\Debug\net6.0\Day_2 web app.pdb
+C:\Users\Lenovo\source\repos\Day_2 web app\obj\Debug\net6.0\Day_2 web app.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Day_2 web app\obj\Debug\net6.0\ref\Day_2 web app.dll

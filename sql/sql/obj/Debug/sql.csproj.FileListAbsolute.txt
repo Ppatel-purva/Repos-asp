@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\sql\sql\bin\Debug\sql.exe.config
+C:\Users\Lenovo\source\repos\sql\sql\bin\Debug\sql.exe
+C:\Users\Lenovo\source\repos\sql\sql\bin\Debug\sql.pdb
+C:\Users\Lenovo\source\repos\sql\sql\obj\Debug\sql.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\sql\sql\obj\Debug\sql.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\sql\sql\obj\Debug\sql.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\sql\sql\obj\Debug\sql.exe
+C:\Users\Lenovo\source\repos\sql\sql\obj\Debug\sql.pdb

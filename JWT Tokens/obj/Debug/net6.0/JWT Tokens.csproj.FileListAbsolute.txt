@@ -1,0 +1,34 @@
+C:\Users\Lenovo\source\repos\JWT Tokens\obj\Debug\net6.0\JWT Tokens.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\JWT Tokens\obj\Debug\net6.0\JWT Tokens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\JWT Tokens\obj\Debug\net6.0\JWT Tokens.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\JWT Tokens\obj\Debug\net6.0\JWT Tokens.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\JWT Tokens\obj\Debug\net6.0\JWT Tokens.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\JWT Tokens\obj\Debug\net6.0\JWT Tokens.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\JWT Tokens\obj\Debug\net6.0\JWT Tokens.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\JWT Tokens\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\source\repos\JWT Tokens\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\source\repos\JWT Tokens\bin\Debug\net6.0\JWT Tokens.exe
+C:\Users\Lenovo\source\repos\JWT Tokens\bin\Debug\net6.0\JWT Tokens.deps.json
+C:\Users\Lenovo\source\repos\JWT Tokens\bin\Debug\net6.0\JWT Tokens.runtimeconfig.json
+C:\Users\Lenovo\source\repos\JWT Tokens\bin\Debug\net6.0\JWT Tokens.dll
+C:\Users\Lenovo\source\repos\JWT Tokens\bin\Debug\net6.0\JWT Tokens.pdb
+C:\Users\Lenovo\source\repos\JWT Tokens\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Lenovo\source\repos\JWT Tokens\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\source\repos\JWT Tokens\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\source\repos\JWT Tokens\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\source\repos\JWT Tokens\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\source\repos\JWT Tokens\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\source\repos\JWT Tokens\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lenovo\source\repos\JWT Tokens\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\source\repos\JWT Tokens\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\source\repos\JWT Tokens\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo\source\repos\JWT Tokens\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\source\repos\JWT Tokens\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\source\repos\JWT Tokens\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\source\repos\JWT Tokens\obj\Debug\net6.0\scopedcss\bundle\JWT Tokens.styles.css
+C:\Users\Lenovo\source\repos\JWT Tokens\obj\Debug\net6.0\JWT Tokens.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\JWT Tokens\obj\Debug\net6.0\JWT Tokens.dll
+C:\Users\Lenovo\source\repos\JWT Tokens\obj\Debug\net6.0\refint\JWT Tokens.dll
+C:\Users\Lenovo\source\repos\JWT Tokens\obj\Debug\net6.0\JWT Tokens.pdb
+C:\Users\Lenovo\source\repos\JWT Tokens\obj\Debug\net6.0\JWT Tokens.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\JWT Tokens\obj\Debug\net6.0\ref\JWT Tokens.dll

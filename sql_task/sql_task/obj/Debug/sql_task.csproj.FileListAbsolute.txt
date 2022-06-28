@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\sql_task\sql_task\bin\Debug\sql_task.exe.config
+C:\Users\Lenovo\source\repos\sql_task\sql_task\bin\Debug\sql_task.exe
+C:\Users\Lenovo\source\repos\sql_task\sql_task\bin\Debug\sql_task.pdb
+C:\Users\Lenovo\source\repos\sql_task\sql_task\obj\Debug\sql_task.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\sql_task\sql_task\obj\Debug\sql_task.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\sql_task\sql_task\obj\Debug\sql_task.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\sql_task\sql_task\obj\Debug\sql_task.exe
+C:\Users\Lenovo\source\repos\sql_task\sql_task\obj\Debug\sql_task.pdb

@@ -1,0 +1,36 @@
+C:\Users\Lenovo\source\repos\day 2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lenovo\source\repos\day 2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lenovo\source\repos\day 2\bin\Debug\netcoreapp3.1\day 2.exe
+C:\Users\Lenovo\source\repos\day 2\bin\Debug\netcoreapp3.1\day 2.deps.json
+C:\Users\Lenovo\source\repos\day 2\bin\Debug\netcoreapp3.1\day 2.runtimeconfig.json
+C:\Users\Lenovo\source\repos\day 2\bin\Debug\netcoreapp3.1\day 2.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\day 2\bin\Debug\netcoreapp3.1\day 2.dll
+C:\Users\Lenovo\source\repos\day 2\bin\Debug\netcoreapp3.1\day 2.pdb
+C:\Users\Lenovo\source\repos\day 2\bin\Debug\netcoreapp3.1\day 2.Views.dll
+C:\Users\Lenovo\source\repos\day 2\bin\Debug\netcoreapp3.1\day 2.Views.pdb
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\day 2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\day 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\day 2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\day 2.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\day 2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\day 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\day 2.RazorAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\day 2.RazorAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\staticwebassets\day 2.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\day 2.TagHelpers.input.cache
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\day 2.TagHelpers.output.cache
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\day 2.RazorCoreGenerate.cache
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\day 2.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\day 2.RazorTargetAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\day 2.Views.pdb
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\day 2.dll
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\day 2.pdb
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\day 2.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\day 2\obj\Debug\netcoreapp3.1\day 2.csproj.CopyComplete

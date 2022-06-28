@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\edi\edi\bin\Debug\edi.exe.config
+C:\Users\Lenovo\source\repos\edi\edi\bin\Debug\edi.exe
+C:\Users\Lenovo\source\repos\edi\edi\bin\Debug\edi.pdb
+C:\Users\Lenovo\source\repos\edi\edi\obj\Debug\edi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\edi\edi\obj\Debug\edi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\edi\edi\obj\Debug\edi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\edi\edi\obj\Debug\edi.exe
+C:\Users\Lenovo\source\repos\edi\edi\obj\Debug\edi.pdb

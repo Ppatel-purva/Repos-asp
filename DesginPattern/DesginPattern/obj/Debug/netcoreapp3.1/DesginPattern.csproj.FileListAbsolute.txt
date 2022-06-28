@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\DesginPattern\DesginPattern\obj\Debug\netcoreapp3.1\DesginPattern.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\DesginPattern\DesginPattern\obj\Debug\netcoreapp3.1\DesginPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\DesginPattern\DesginPattern\obj\Debug\netcoreapp3.1\DesginPattern.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DesginPattern\DesginPattern\obj\Debug\netcoreapp3.1\DesginPattern.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DesginPattern\DesginPattern\obj\Debug\netcoreapp3.1\DesginPattern.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DesginPattern\DesginPattern\bin\Debug\netcoreapp3.1\DesginPattern.exe
+C:\Users\Lenovo\source\repos\DesginPattern\DesginPattern\bin\Debug\netcoreapp3.1\DesginPattern.deps.json
+C:\Users\Lenovo\source\repos\DesginPattern\DesginPattern\bin\Debug\netcoreapp3.1\DesginPattern.runtimeconfig.json
+C:\Users\Lenovo\source\repos\DesginPattern\DesginPattern\bin\Debug\netcoreapp3.1\DesginPattern.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\DesginPattern\DesginPattern\bin\Debug\netcoreapp3.1\DesginPattern.dll
+C:\Users\Lenovo\source\repos\DesginPattern\DesginPattern\bin\Debug\netcoreapp3.1\DesginPattern.pdb
+C:\Users\Lenovo\source\repos\DesginPattern\DesginPattern\obj\Debug\netcoreapp3.1\DesginPattern.dll
+C:\Users\Lenovo\source\repos\DesginPattern\DesginPattern\obj\Debug\netcoreapp3.1\DesginPattern.pdb
+C:\Users\Lenovo\source\repos\DesginPattern\DesginPattern\obj\Debug\netcoreapp3.1\DesginPattern.genruntimeconfig.cache

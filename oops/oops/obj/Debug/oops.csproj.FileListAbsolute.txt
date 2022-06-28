@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\oops\oops\bin\Debug\oops.exe.config
+C:\Users\Lenovo\source\repos\oops\oops\bin\Debug\oops.exe
+C:\Users\Lenovo\source\repos\oops\oops\bin\Debug\oops.pdb
+C:\Users\Lenovo\source\repos\oops\oops\obj\Debug\oops.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\oops\oops\obj\Debug\oops.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\oops\oops\obj\Debug\oops.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\oops\oops\obj\Debug\oops.exe
+C:\Users\Lenovo\source\repos\oops\oops\obj\Debug\oops.pdb

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\clientConsolAppTextfile\clientConsolAppTextfile\bin\Debug\netcoreapp3.1\clientConsolAppTextfile.exe
+C:\Users\Lenovo\source\repos\clientConsolAppTextfile\clientConsolAppTextfile\bin\Debug\netcoreapp3.1\clientConsolAppTextfile.deps.json
+C:\Users\Lenovo\source\repos\clientConsolAppTextfile\clientConsolAppTextfile\bin\Debug\netcoreapp3.1\clientConsolAppTextfile.runtimeconfig.json
+C:\Users\Lenovo\source\repos\clientConsolAppTextfile\clientConsolAppTextfile\bin\Debug\netcoreapp3.1\clientConsolAppTextfile.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\clientConsolAppTextfile\clientConsolAppTextfile\bin\Debug\netcoreapp3.1\clientConsolAppTextfile.dll
+C:\Users\Lenovo\source\repos\clientConsolAppTextfile\clientConsolAppTextfile\bin\Debug\netcoreapp3.1\clientConsolAppTextfile.pdb
+C:\Users\Lenovo\source\repos\clientConsolAppTextfile\clientConsolAppTextfile\obj\Debug\netcoreapp3.1\clientConsolAppTextfile.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\clientConsolAppTextfile\clientConsolAppTextfile\obj\Debug\netcoreapp3.1\clientConsolAppTextfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\clientConsolAppTextfile\clientConsolAppTextfile\obj\Debug\netcoreapp3.1\clientConsolAppTextfile.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\clientConsolAppTextfile\clientConsolAppTextfile\obj\Debug\netcoreapp3.1\clientConsolAppTextfile.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\clientConsolAppTextfile\clientConsolAppTextfile\obj\Debug\netcoreapp3.1\clientConsolAppTextfile.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\clientConsolAppTextfile\clientConsolAppTextfile\obj\Debug\netcoreapp3.1\clientConsolAppTextfile.dll
+C:\Users\Lenovo\source\repos\clientConsolAppTextfile\clientConsolAppTextfile\obj\Debug\netcoreapp3.1\clientConsolAppTextfile.pdb
+C:\Users\Lenovo\source\repos\clientConsolAppTextfile\clientConsolAppTextfile\obj\Debug\netcoreapp3.1\clientConsolAppTextfile.genruntimeconfig.cache

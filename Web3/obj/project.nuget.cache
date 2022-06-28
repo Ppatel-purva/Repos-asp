@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "aTfahFj4E2TN7z8Jzb3r55JKpHWeSwE4MS/n2drHwHZLbL5FAUCLURrfoHtPOCsd6kMhIvb4TnXv+UUrUeNI5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\Web3\\Web3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.servicefabric\\8.2.1571\\microsoft.servicefabric.8.2.1571.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.servicefabric.aspnetcore.abstractions\\5.2.1571\\microsoft.servicefabric.aspnetcore.abstractions.5.2.1571.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.servicefabric.aspnetcore.kestrel\\5.2.1571\\microsoft.servicefabric.aspnetcore.kestrel.5.2.1571.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.servicefabric.data\\5.2.1571\\microsoft.servicefabric.data.5.2.1571.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\5.2.1571\\microsoft.servicefabric.data.extensions.5.2.1571.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\5.2.1571\\microsoft.servicefabric.data.interfaces.5.2.1571.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\5.2.1571\\microsoft.servicefabric.diagnostics.internal.5.2.1571.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.servicefabric.services\\5.2.1571\\microsoft.servicefabric.services.5.2.1571.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.0\\microsoft.netcore.app.runtime.win-x64.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.0\\microsoft.aspnetcore.app.runtime.win-x64.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

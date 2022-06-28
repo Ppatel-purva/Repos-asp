@@ -1,0 +1,27 @@
+C:\Users\Lenovo\source\repos\ports minimal api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\source\repos\ports minimal api\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\source\repos\ports minimal api\bin\Debug\net6.0\ports minimal api.exe
+C:\Users\Lenovo\source\repos\ports minimal api\bin\Debug\net6.0\ports minimal api.deps.json
+C:\Users\Lenovo\source\repos\ports minimal api\bin\Debug\net6.0\ports minimal api.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ports minimal api\bin\Debug\net6.0\ports minimal api.dll
+C:\Users\Lenovo\source\repos\ports minimal api\bin\Debug\net6.0\ports minimal api.pdb
+C:\Users\Lenovo\source\repos\ports minimal api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lenovo\source\repos\ports minimal api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\source\repos\ports minimal api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\source\repos\ports minimal api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo\source\repos\ports minimal api\obj\Debug\net6.0\ports minimal api.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ports minimal api\obj\Debug\net6.0\ports minimal api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ports minimal api\obj\Debug\net6.0\ports minimal api.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ports minimal api\obj\Debug\net6.0\ports minimal api.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ports minimal api\obj\Debug\net6.0\ports minimal api.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ports minimal api\obj\Debug\net6.0\ports minimal api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ports minimal api\obj\Debug\net6.0\ports minimal api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\ports minimal api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\source\repos\ports minimal api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\source\repos\ports minimal api\obj\Debug\net6.0\scopedcss\bundle\ports minimal api.styles.css
+C:\Users\Lenovo\source\repos\ports minimal api\obj\Debug\net6.0\ports minimal api.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\ports minimal api\obj\Debug\net6.0\ports minimal api.dll
+C:\Users\Lenovo\source\repos\ports minimal api\obj\Debug\net6.0\refint\ports minimal api.dll
+C:\Users\Lenovo\source\repos\ports minimal api\obj\Debug\net6.0\ports minimal api.pdb
+C:\Users\Lenovo\source\repos\ports minimal api\obj\Debug\net6.0\ports minimal api.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\ports minimal api\obj\Debug\net6.0\ref\ports minimal api.dll

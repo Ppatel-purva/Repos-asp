@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOrEADER", "ADOrEADER.csproj", "{EAE84A8A-4A1E-42E3-9F30-6A963CE42EC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAE84A8A-4A1E-42E3-9F30-6A963CE42EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE84A8A-4A1E-42E3-9F30-6A963CE42EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE84A8A-4A1E-42E3-9F30-6A963CE42EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE84A8A-4A1E-42E3-9F30-6A963CE42EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5D86957-873E-4E5D-A37C-2858CD0C70F9}
+	EndGlobalSection
+EndGlobal

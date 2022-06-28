@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\raytexone\raytexone\bin\Debug\raytexone.exe.config
+C:\Users\Lenovo\source\repos\raytexone\raytexone\bin\Debug\raytexone.exe
+C:\Users\Lenovo\source\repos\raytexone\raytexone\bin\Debug\raytexone.pdb
+C:\Users\Lenovo\source\repos\raytexone\raytexone\obj\Debug\raytexone.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\raytexone\raytexone\obj\Debug\raytexone.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\raytexone\raytexone\obj\Debug\raytexone.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\raytexone\raytexone\obj\Debug\raytexone.exe
+C:\Users\Lenovo\source\repos\raytexone\raytexone\obj\Debug\raytexone.pdb

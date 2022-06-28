@@ -1,0 +1,26 @@
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\bin\Debug\net6.0\UsingAuthenticationWith Swagger.staticwebassets.runtime.json
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\bin\Debug\net6.0\UsingAuthenticationWith Swagger.exe
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\bin\Debug\net6.0\UsingAuthenticationWith Swagger.deps.json
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\bin\Debug\net6.0\UsingAuthenticationWith Swagger.runtimeconfig.json
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\bin\Debug\net6.0\UsingAuthenticationWith Swagger.dll
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\bin\Debug\net6.0\UsingAuthenticationWith Swagger.pdb
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\obj\Debug\net6.0\UsingAuthenticationWith Swagger.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\obj\Debug\net6.0\UsingAuthenticationWith Swagger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\obj\Debug\net6.0\UsingAuthenticationWith Swagger.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\obj\Debug\net6.0\UsingAuthenticationWith Swagger.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\obj\Debug\net6.0\UsingAuthenticationWith Swagger.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\obj\Debug\net6.0\UsingAuthenticationWith Swagger.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\obj\Debug\net6.0\UsingAuthenticationWith Swagger.RazorAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\obj\Debug\net6.0\UsingAuthenticationWith Swagger.RazorAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\obj\Debug\net6.0\scopedcss\bundle\UsingAuthenticationWith Swagger.styles.css
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\obj\Debug\net6.0\scopedcss\projectbundle\UsingAuthenticationWith Swagger.bundle.scp.css
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\obj\Debug\net6.0\UsingAuthenticationWith Swagger.dll
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\obj\Debug\net6.0\refint\UsingAuthenticationWith Swagger.dll
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\obj\Debug\net6.0\UsingAuthenticationWith Swagger.pdb
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\obj\Debug\net6.0\UsingAuthenticationWith Swagger.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\UsingAuthenticationWith Swagger\UsingAuthenticationWith Swagger\obj\Debug\net6.0\ref\UsingAuthenticationWith Swagger.dll
